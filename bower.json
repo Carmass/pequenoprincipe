@@ -1,0 +1,24 @@
+{
+  "name": "pequenoprincipe",
+  "description": "Theme WordPress da coleção dos livros Planeta Pequeno Principe",
+  "main": "app.js",
+  "authors": [
+    "Olivério Neto"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.1",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "owl.carousel": "^2.2.0",
+    "fancybox": "^2.1.6"
+  }
+}

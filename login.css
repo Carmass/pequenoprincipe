@@ -1,0 +1,8 @@
+.login h1 a {
+	background: url("http://localhost/pequenoprincipe/wp-content/themes/pequenoprincipe/assets/images/planeta_pequeno_principe_logo-admin.png") no-repeat center center;
+	background-size:50%;
+	height: 100px;
+	width: 100%;
+	padding: 10px 0;
+	border: 1px solid #E5E5E5;
+}

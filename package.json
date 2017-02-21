@@ -1,0 +1,19 @@
+{
+  "name": "pequenoprincipe",
+  "version": "1.0.0",
+  "description": "Theme WordPress da coleção dos livros Planeta Pequeno Principe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivério Neto",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-connect-php": "0.0.8",
+    "gulp-livereload": "^3.8.1"
+  },
+  "dependencies": {}
+}
