@@ -36,12 +36,8 @@ $( document ).ready(function() {
 	// 	}
 	// });
 
-	// Adicionar icone no primeiro li do Menu
-
-	// $('.menu-inline ul li').first().insertBefore('<i class="fa fa-caret-down" aria-hidden="true"></i>');
-
 	$(".owl-carousel a").click(function(e){
-		var home = "http://192.168.1.8/pequenoprincipe/";
+		var home = "http://localhost/pequenoprincipe/";
 		var link = "wp-content/themes/pequenoprincipe/assets/images/livros/";
 		e.preventDefault();
 		if ($(this).attr('id') == 'livro01') {
@@ -104,8 +100,6 @@ $( document ).ready(function() {
 	$(window).resize(gambi);
 
 	$('.icone-mobile').click(function() {
-		// var height = $('.menu-mobile').height();
-		// $('.menu-mobile').css({height:height});
 		$('.menu-mobile').toggle(300).animate({left:'5px'}).animate({left:'0'});
 	});
 
