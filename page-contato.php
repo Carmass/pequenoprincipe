@@ -9,7 +9,7 @@
 				<div class="col-md-6">
 					<p>Ei... Se você tem uma dúvida ou sugestão entre em contato conosco. O que você tem a nos dizer será sempre bem-vindo!</p>
 					<figure>
-						<img class="img-responsive thumbnail" src="http://www.clickgratis.com.br/fotos-imagens/foto/aHR0cDovL2FydGV4cG9uZXd5b3JrLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wMS9GT1RPLVNPTE9fRmVhdHVyZS5qcGc=.jpg">
+						<img class="img-responsive thumbnail" style="margin: 0 auto;" src="http://placehold.it/400x400">
 					</figure>
 				</div>
 				<div class="col-md-6">
