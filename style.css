@@ -335,7 +335,7 @@ header {
 /* Livros  */
 
 .livros {
-	/*background:#B0DCE3;*/
+	background:#FFFFFF;
 	padding-bottom:5rem;
 }
 
@@ -375,7 +375,8 @@ figcaption {
 /* O autor */
 
 .autor {
-	/*background:black;*/
+	background:url('http://localhost/pequenoprincipe/wp-content/themes/pequenoprincipe/assets/images/planeta_pequeno_principe_background_autor.jpg');
+	background-size:cover;
 	padding-bottom:5rem;
 }
 
@@ -493,7 +494,8 @@ figcaption {
 /* Comprar */
 
 .comprar {
-	/*background-color:#B0DCE3;*/
+	background:url('http://localhost/pequenoprincipe/wp-content/themes/pequenoprincipe/assets/images/planeta_pequeno_principe_background_colecao.jpg');
+	background-size:cover;
 	padding-bottom:5rem;
 }
 

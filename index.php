@@ -138,7 +138,7 @@
 				<h2 class="text-center">Ilustradoras</h2>
 				<div class="col-md-6">
 					<figure>
-						<img width="300px" class="img-responsive thumbnail" alt="Jacquie Lima Ilustradora Planeta Pequeno Principe" title="Ilustradora da coleção Planeta Pequeno Príncipe" style="margin: 0 auto;" src="<?= get_template_directory_uri(); ?>/assets/images/jacquie_lima_ilustradora_planeta_pequeno_principe.png">
+						<img width="400px" class="img-responsive thumbnail" alt="Jacquie Lima Ilustradora Planeta Pequeno Principe" title="Ilustradora da coleção Planeta Pequeno Príncipe" style="margin: 0 auto;" src="<?= get_template_directory_uri(); ?>/assets/images/jacquie_lima_ilustradora_planeta_pequeno_principe.jpg">
 					</figure>
 				</div>
 				<div class="col-md-6">
@@ -197,7 +197,7 @@
 		<div class="row">
 			<div class="text-center col-md-12">
 				<h2>Adquira Já sua coleção</h2>
-				<img class="img-responsive thumbnail" style="margin: 0 auto;" src="<?= get_template_directory_uri(); ?>/assets/images/planeta_pequeno_principe_colecao.jpg">
+				<img class="img-responsive" style="margin: 0 auto;" src="<?= get_template_directory_uri(); ?>/assets/images/planeta_pequeno_principe_colecao.png">
 				<button class="btn btn-success btn-lg">COMPRAR</button>
 			</div>
 		</div>
